@@ -31,4 +31,4 @@ namespace SistemaBiblioteca.Forms
             tablaPrestamos.DataSource = null;
             tablaPrestamos.DataSource = manager.prestamos;
         }
-    }
+    }  
