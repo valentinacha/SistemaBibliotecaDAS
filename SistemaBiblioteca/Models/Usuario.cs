@@ -10,4 +10,4 @@ public class Usuario
         this.nombre = nombre;
         this.email = email;
     }
-}
+}  

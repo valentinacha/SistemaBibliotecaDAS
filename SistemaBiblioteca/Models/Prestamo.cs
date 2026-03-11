@@ -14,4 +14,4 @@ public class Prestamo
         this.fechaPrestamo = fechaPrestamo;
         this.fechaDevolucion = fechaDevolucion;
     }
-}
+}  
